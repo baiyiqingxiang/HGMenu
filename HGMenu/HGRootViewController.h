@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  HGRootViewController.h
 //  HGMenu
 //
 //  Created by 白衣卿相 on 2016/12/23.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface HGRootViewController : UIViewController
 
 @end
-
